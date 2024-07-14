@@ -1,0 +1,1 @@
+ToDoList|Category|Work|SimpleTask|Finish report|Complete the annual report|7/15/2024 3:36:57 PM|1|True;Category|Personal|ChecklistTask|Grocery Shopping|Buy groceries for the week|7/14/2024 3:36:57 PM|2|False|Buy milk,Buy bread,Buy cheese
